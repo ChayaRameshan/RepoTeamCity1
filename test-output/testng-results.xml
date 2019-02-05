@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="59159" started-at="2019-02-05T13:01:48Z" finished-at="2019-02-05T13:02:48Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="59159" started-at="2019-02-05T13:01:48Z" finished-at="2019-02-05T13:02:48Z">
+      <class name="firstTestNGPackage.SwitchWindowExample">
+        <test-method status="PASS" signature="printChildWindowTitles()[pri:0, instance:firstTestNGPackage.SwitchWindowExample@1efea79]" name="printChildWindowTitles" duration-ms="58999" started-at="2019-02-05T13:01:49Z" finished-at="2019-02-05T13:02:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printChildWindowTitles -->
+      </class> <!-- firstTestNGPackage.SwitchWindowExample -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
