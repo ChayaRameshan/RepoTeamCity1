@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="59159" started-at="2019-02-05T13:01:48Z" finished-at="2019-02-05T13:02:48Z">
+  <suite name="Suite" duration-ms="73480" started-at="2019-02-06T11:07:03Z" finished-at="2019-02-06T11:08:16Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="59159" started-at="2019-02-05T13:01:48Z" finished-at="2019-02-05T13:02:48Z">
+    <test name="Test" duration-ms="73480" started-at="2019-02-06T11:07:03Z" finished-at="2019-02-06T11:08:16Z">
       <class name="firstTestNGPackage.SwitchWindowExample">
-        <test-method status="PASS" signature="printChildWindowTitles()[pri:0, instance:firstTestNGPackage.SwitchWindowExample@1efea79]" name="printChildWindowTitles" duration-ms="58999" started-at="2019-02-05T13:01:49Z" finished-at="2019-02-05T13:02:48Z">
+        <test-method status="PASS" signature="printChildWindowTitles()[pri:0, instance:firstTestNGPackage.SwitchWindowExample@1efea79]" name="printChildWindowTitles" duration-ms="72907" started-at="2019-02-06T11:07:03Z" finished-at="2019-02-06T11:08:16Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- printChildWindowTitles -->

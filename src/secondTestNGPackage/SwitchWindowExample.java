@@ -1,4 +1,4 @@
-package firstTestNGPackage;
+package secondTestNGPackage;
 
 import java.util.Iterator;
 import java.util.Set;
